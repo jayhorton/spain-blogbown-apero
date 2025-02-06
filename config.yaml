@@ -32,7 +32,7 @@ markup:
 params:
   comments: utterances
   custom_theme: ''
-  customheadingFontFamily: Bitter
+  customheadingFontFamily: EB Garamond
   customtextFontFamily: Metropolis
   description: A modern, beautiful, and easily configurable blog theme for Hugo.
   favicon: /img/favicon.ico
