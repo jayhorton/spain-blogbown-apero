@@ -83,7 +83,7 @@ params:
   socialInFooter: yes
   socialInHeader: no
   textFontFamily: sans-serif
-  theme: sky
+  theme: poppy
   twitter: apreshill
   utterances:
     issue_term: pathname
